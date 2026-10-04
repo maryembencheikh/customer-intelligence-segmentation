@@ -18,7 +18,19 @@ The final system provides two complementary outputs:
 
 * an analytical framework for understanding customer behavior
 * a reusable machine learning pipeline capable of assigning a new customer to an existing behavioral segment
+## Application Preview
 
+### Streamlit Interface
+
+![Customer Intelligence Application](assets/app-overview.png)
+
+### Lower Purchase Intensity
+
+![Lower Purchase Intensity Prediction](assets/lower-intensity.png)
+
+### Higher Purchase Intensity
+
+![Higher Purchase Intensity Prediction](assets/higher-intensity.png)
 ---
 
 ## Business Problem
