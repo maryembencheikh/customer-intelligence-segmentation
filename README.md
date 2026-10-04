@@ -32,6 +32,16 @@ The final system provides two complementary outputs:
 
 ![Higher Purchase Intensity Prediction](assets/higher-intensity.png)
 ---
+## Project Highlights
+
+- **3,900 customers** analyzed through behavioral customer segmentation
+- **2 behavioral segments** identified based primarily on purchase intensity
+- **Silhouette Score ≈ 0.212** with highly stable clustering across random seeds
+- Compared **KMeans, Gaussian Mixture Models, and DBSCAN**
+- Built a reusable **scikit-learn pipeline** for new customer segment assignment
+- Developed a **Streamlit decision-support application** for customer intelligence
+- Translated unsupervised learning results into **business-oriented customer actions**
+- Followed a complete workflow from **data audit → modeling → validation → business interpretation → deployment**
 
 ## Business Problem
 
