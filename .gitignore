@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data
+data/shopping_trends.csv
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Generated data artifacts
+data/X_scaled.npy
+data/clustering_features.csv
+data/reference_labels.npy
